@@ -1,0 +1,8 @@
+Please enter 'login'.
+Please enter mode ('machine' or 'agent').
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+Please enter an account number.
+Please enter an account name.
+Error: An account name must have less than 30 characters.
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+You have successfully logged out.

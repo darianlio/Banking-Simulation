@@ -1,0 +1,9 @@
+Please enter 'login'.
+Please enter mode ('machine' or 'agent').
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+Please enter the 'from' account number.
+Please enter the 'to' account number.
+Please enter the amount of money to transfer.
+Transfer completed.
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+You have successfully logged out.

@@ -1,0 +1,8 @@
+Please enter 'login'.
+Please enter mode ('machine' or 'agent').
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+Error: Must create an account in agent mode.
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+Error: Must delete an account in agent mode.
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+You have successfully logged out.

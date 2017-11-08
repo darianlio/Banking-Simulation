@@ -1,0 +1,8 @@
+Please enter 'login'.
+Please enter mode ('machine' or 'agent').
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+Please enter an account number.
+Please enter the amount of money to deposit.
+Error: The amount can only consist of numeric digits.
+What would you like to do? ('createacct', 'deleteacct', 'deposit', 'withdraw', 'transfer', 'logout')
+You have successfully logged out.
