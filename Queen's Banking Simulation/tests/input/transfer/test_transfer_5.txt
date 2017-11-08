@@ -1,0 +1,7 @@
+login
+agent
+transfer
+1234567
+1234500
+999999999
+logout

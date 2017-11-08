@@ -1,0 +1,5 @@
+login
+machine
+createacct
+deleteacct
+logout

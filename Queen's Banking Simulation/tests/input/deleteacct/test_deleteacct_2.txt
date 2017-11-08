@@ -1,0 +1,5 @@
+login
+agent
+deleteacct
+1290123
+logout
