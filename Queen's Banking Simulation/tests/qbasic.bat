@@ -1,0 +1,1 @@
+java -jar qbasic.jar validaccounts.txt transactionsummary.txt
