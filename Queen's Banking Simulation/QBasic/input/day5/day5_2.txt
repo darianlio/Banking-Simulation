@@ -1,0 +1,10 @@
+login
+agent
+transfer
+6666666
+1111111
+2000
+withdraw
+4444444
+50000
+logout

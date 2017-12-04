@@ -1,0 +1,9 @@
+login
+agent
+deposit
+6666666
+80000
+withdraw
+6666666
+90
+logout

@@ -1,0 +1,9 @@
+login
+agent
+withdraw
+4444444
+10600
+deleteacct
+4444444
+Moose
+logout

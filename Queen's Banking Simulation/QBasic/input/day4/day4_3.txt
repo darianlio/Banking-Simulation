@@ -1,0 +1,9 @@
+login
+machine
+deposit
+6666666
+700000
+withdraw
+6666666
+70000
+logout

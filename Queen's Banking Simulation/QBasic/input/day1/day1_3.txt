@@ -1,0 +1,9 @@
+login
+agent
+createacct
+3333333
+Beaver
+createacct
+4444444
+Moose
+logout

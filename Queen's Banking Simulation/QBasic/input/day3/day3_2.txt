@@ -1,0 +1,7 @@
+login
+machine
+transfer
+5555555
+1111111
+10000
+logout

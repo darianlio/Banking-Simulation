@@ -1,0 +1,12 @@
+login
+agent
+createacct
+5555555
+Bear
+createacct
+6666666
+Penguin
+createacct
+7777777
+Fish
+logout

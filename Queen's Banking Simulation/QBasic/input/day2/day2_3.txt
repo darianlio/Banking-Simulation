@@ -1,0 +1,11 @@
+login
+machine
+transfer
+1111111
+3333333
+1000
+transfer
+4444444
+5555555
+20000
+logout

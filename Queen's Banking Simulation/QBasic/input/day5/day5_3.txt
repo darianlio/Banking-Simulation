@@ -1,0 +1,10 @@
+login
+machine
+withdraw
+3333333
+9500
+transfer
+3333333
+1111111
+50000
+logout

@@ -1,0 +1,9 @@
+login
+agent
+createacct
+1111111
+Cat
+createacct
+2222222
+Dog
+logout
