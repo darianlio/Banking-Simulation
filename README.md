@@ -1,4 +1,4 @@
-# CMPE327 Banking Simulation Console
+# Banking Simulation Console
 # Console to run a simulation of a bank:
 # 1) Two users:
     a) agent (has all permissions, transaction limt of $999,999.99)
